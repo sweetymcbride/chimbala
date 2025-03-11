@@ -1,0 +1,7 @@
+/* Basic styling */
+.hidden {
+    display: none;
+    color: green;
+    font-weight: bold;
+    margin-top: 10px;
+}
